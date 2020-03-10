@@ -1,0 +1,11 @@
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+E:\Belajar\kalkulator c#\calculator 2\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
